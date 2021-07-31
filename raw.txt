@@ -1,5 +1,1 @@
-timely filing for indiana is 90 days for innetwork and 180 days for out of network for normal claims and for corrected claim it is 60 days for both in and outofnetwork. if you receive a claim with eob that is not readable or understandable then deny the claim with YC1. if eob is not received then deny the claim with CBP after following Pay and Chase.
 
-Jack and Jill went up the hill to fetch a pale of water.
-
-steps of autorization - Check the authorization no and then check the insurance.
